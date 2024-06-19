@@ -1,0 +1,1 @@
+window.location.replace("https://www.linkedin.com/in/ritchy-vd-9252aa164/");
